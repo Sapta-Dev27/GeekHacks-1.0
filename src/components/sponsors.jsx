@@ -16,8 +16,8 @@ export default function CardHoverEffectDemo() {
 }
 export const sponsors = [
   {
-    title: "Devfolio",
-    image: "/assets/images/devfolio.png",
+    title: "DoraHacks",
+    image: "/assets/images/dorahacks.jpg",
     link: "https://stripe.com",
   },
   {

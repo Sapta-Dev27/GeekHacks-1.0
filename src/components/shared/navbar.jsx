@@ -89,7 +89,7 @@ const Navbar = () => {
             {/* Logo Section */}
             <div className="navbar-logo-section">
               <a href="/" className="text-lg font-bold">
-                Spectrum 1.0
+                GeekHacks 1.0
               </a>
               <img
                 src="/assets/images/Spectrum1.0.png"

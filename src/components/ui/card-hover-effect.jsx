@@ -38,14 +38,14 @@ export const HoverEffect = ({ items, className }) => {
               />
             )}
           </AnimatePresence>
-          <Card className="border-[#800080cc] flex justify-center">
+          <Card className="border-[#800080cc] flex justify-center align-middle items-center">
             <CardTitle className="font-bold text-2xl mb-4">
               {item.title}
             </CardTitle>
             <img
               src={item.image}
               alt={item.title}
-              className=" rounded-xl  h-24 w-24"
+              className=" rounded-xl  h-24 w-24  ml-3 "
             ></img>
           </Card>
         </a>

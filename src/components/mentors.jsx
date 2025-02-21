@@ -11,7 +11,7 @@ const teamMembers = [
   {
     name: " Satyaki De",
     role: "Tech Lead",
-    img: "/assets/team/sayaki.jpg",
+    img: "/assets/team/satyaki.png",
     social1: " ",
     social2: " ",
   },
@@ -40,13 +40,6 @@ const teamMembers = [
     name: " Aditi Chatterjee ",
     role: "Graphics Member",
     img: "/assets/team/aditi.jpg",
-    social1: " ",
-    social2: " ",
-  },
-  {
-    name: " Chandan Kumar ",
-    role: "Tech Member",
-    img: "/assets/team/chandan.jpg",
     social1: " ",
     social2: " ",
   },

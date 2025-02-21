@@ -24,7 +24,7 @@ const Faq = () => {
       answer: "There are no participation fees for the Hackathon .",
     },
     {
-      question: "What are the prerequisites to participate in Spectrum 1.0 ?",
+      question: "What are the prerequisites to participate in GeekHacks 1.0 ?",
       answer:
         "To participate, you must be a student or a working professional in the technology industry. No prior hackathon experience is required.",
     },
@@ -34,7 +34,7 @@ const Faq = () => {
         "You can register for the hackathon from our website. The registration deadline is not decided yet",
     },
     {
-      question: "What is the venue for Spectrum 1.0 ?",
+      question: "What is the venue for GeekHacks 1.0 ?",
       answer: "The hackathon will be held at the Techno Main Salt Lake Campus",
     },
     {

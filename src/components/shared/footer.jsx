@@ -69,8 +69,7 @@ export default function Footer() {
       {/* Footer Rights */}
       <div className="footer-rights mb-6 mt-8">
         <p className="text-center text-sm font-light text-gray-500">
-          Made with <span className="text-red-600">❤</span>, Made for GDG On
-          Campus TMSL Hackathon
+          Made with <span className="text-red-600">❤</span>, Made for GeekHacks 1.0
         </p>
       </div>
     </div>

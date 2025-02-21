@@ -12,7 +12,7 @@ export default function About() {
           <h2 className="text-4xl sm:text-5xl lg:text-5xl font-bold tracking-tight text-center lg:text-left mb-8">
             <div className="inline-flex items-center">
               <span className="font-mono font-bold text-white mr-4 mt-2 ml-2">
-                Spectrum
+                GeekHacks
               </span>
               <span className="font-sans font-semibold text-transparent bg-clip-text bg-gradient-to-r from-[#5C24FF] to-[#D94FD5] ml-2">
                 1.0
@@ -42,7 +42,7 @@ export default function About() {
             <br />
             <br />
             Come along with us on{" "}
-            <span className="font-bold text-purple-500">Spectrum 1.0 </span>,
+            <span className="font-bold text-purple-500">GeekHacks 1.0 </span>,
             organized by the{" "}
             <span className="font-bold text-purple-500">
               GDG On Campus TMSL .{" "}
