@@ -6,7 +6,7 @@ const Home = () => {
     <main className="relative w-full h-screen -mt-16">
       {/* Spline Background */}
       <div className="absolute inset-0">
-        <div className="w-full h-full min-h-[400px] md:min-h-[500px] lg:min-h-[600px]">
+        <div className="w-full h-full min-h-[400px] md:min-h-[500px] lg:min-h-[600px] spline-div">
           <Spline
             className="w-full h-full object-contain"
             scene="https://prod.spline.design/RnUyvM4a9P5gpJiG/scene.splinecode"
